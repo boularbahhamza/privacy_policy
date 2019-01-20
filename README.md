@@ -8,15 +8,11 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at tubedi unless otherwise defined in this Privacy Policy.
 
 # Information Collection and Use
-The Application has a smile to unlock feature Using the TrueDepth API. All of this content is retained on the device. It is never sent to any remote location off-device.
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request is retained on your device and is not collected by us in any way
 
 The app does use third party services that may collect information used to make some features up and running.
 
-# Automatically Collected Information
-    # TrueDepth API
-The Application makes use of automatically collected information using the TrueDepth API provided by Apple. The only use of this information is to provide valuable user features. None of the information collected by the TrueDepth API ever leaves the user's device.
 # Does the Application collect precise real time location information of the device? 
 This Application does not collect precise information about the location of your mobile device.
 # Cookies
